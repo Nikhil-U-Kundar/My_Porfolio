@@ -25,7 +25,7 @@ This website serves as a digital resume, highlighting my expertise in **web deve
 - 📬 **Contact Me** - Interactive form with email and social links.  
 
 ## 📸 Screenshots  
-![Portfolio Preview](assets/images/portfolio-preview.png)  
+![Portfolio Preview](https://github.com/Nikhil-U-Kundar/My_Porfolio/blob/6639acdf1413394e68dd7dc250d18530de8c4223/Screenshot%20(738).png)  
 
 ## 🚀 Setup & Installation  
 1. Clone the repository:  
